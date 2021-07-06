@@ -1,0 +1,99 @@
+White Paper on DRABRH-Token
+
+INTRODUCTION
+
+DRABRH Token is a decentralised cryptocurrency made on 
+ERC20 Ethereum platform with symbol ABRH. It is based 
+on constructed with solidity smart contract on ReMix IDE.
+DRABRH prices will attract the investors as it is valued 
+equivalent to 10 ETH which is around $23000 approximately.
+There by making it a 2nd most valuable cryptocurrency after
+the Bitcoin.
+
+PRICING
+
+As DRABRH is valued highly at 23000USD or
+   
+
+ 1 ABRH = 10 ETH = 23400 DAI = $23400
+
+Pricing is decided on technical formula
+of constant product parameter (k).
+
+Price(P) at anytime = k/N
+Where N is Total Supply of DRABRH Token
+Always
+  P * N = k at anytime of transaction.
+ X= total token purchased at time t
+   
+    P = k/(N - X)
+ where y= N-x total token left in smart contract.
+wherein (N-x) not equal to 0
+  (N-x) > 0
+Max y= N-x+1
+
+As the value of y=N-x , decreases the price 
+goes up for every Buy options.
+
+Where as for any sell options X takes
+ negative value as x = -x
+    y1 =  (N  +. x)
+    y1 = y0 + X 
+  where y1 is new value
+         y0 is old value
+
+SWAPABLE
+
+Prics are dependent on 
+every SWAP made at exchanges of Token.
+Price of DRABRH  directly proportional to the price of ETH
+Price of DRABRH directly proportional to the price of any other Token
+Price may fluctuate at different times for any transaction 
+with any other Token.Every 10 minutes depending on platform used.
+
+
+ADD CUSTOM TOKEN
+
+The DRABRH Token can be added to any wallet on Ethereum platform like
+
+Metamask 
+Trust Wallet
+CoinGecko wallet
+Coin vote.cc
+Coinbase wallet
+
+
+LISTING OF DRABRH
+
+DRABRH Token will be listed on 
+Coinvote.cc
+Uniswap
+Sushi swap
+
+FEES
+
+The fees of every transaction of
+ DRABRH Token is dependent on wallet
+fees which may differ from wallet to wallet.
+
+TRANSFER
+
+DRABRH Token can be SEND/ RECEIVE to any other person
+who have added the DRABRH Token in his wallet
+
+TRADING
+
+The DRABRH Token trading can be done on
+ Trust wallet
+ MyEtherWallet
+Coinvote
+Coin base wallet
+Metamask wallet
+
+Both BUY and SELL options available.
+
+
+
+
+
+
